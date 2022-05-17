@@ -71,15 +71,8 @@ export default {
 
 <style lang="scss" scoped>
 .container {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  width: 70%;
-  margin: 0 auto;
-
   &__img {
     width: 70px;
-    height: 70px;
   }
 
   &__menu {
