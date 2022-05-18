@@ -83,7 +83,7 @@ export default {
 
     li {
       display: inline-block;
-      padding: 1rem 0.5rem;
+      padding: 2rem 0.5rem;
       color: black;
 
       a {

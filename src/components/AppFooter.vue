@@ -113,7 +113,8 @@ footer {
           h4 {
             color: white;
             font-weight: bold;
-            margin: 0.5rem;
+            padding: 0.5rem 1rem 0.5rem 0;
+            font-size: 0.9rem;
           }
           ul {
             li {
@@ -138,7 +139,7 @@ footer {
     .btn {
       color: white;
       padding: 1rem;
-      margin: 2rem;
+      margin: 2rem 0;
       border: 2px solid blue;
     }
 
